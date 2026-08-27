@@ -1,11 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying IT at KTH in Stockholm, Sweden<br>
 👯 I’m looking to collaborate on cybersecurity projects<br>
-🤝 I’m looking for help with general protocol implementations<br>
 🌱 I’m currently learning basic Computer security<br>
-⚡ Fun fact: <br>
-One of the most important things about cyber security is human psychology. <br>
-People are always the weakest link. Over 80% of breaches are due to human error. 
 
 ---
 
